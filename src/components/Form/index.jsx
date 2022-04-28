@@ -5,7 +5,8 @@ const Form = () => {
   return( 
   <div className="container">
        <div className="form">
-           asd
+           <h1>Form for Register</h1>
+           
        </div>
   </div>)
 };
